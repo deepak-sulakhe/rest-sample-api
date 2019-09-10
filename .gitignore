@@ -1,1 +1,21 @@
-/target/
+
+/.metadata/
+target/
+*.class
+*.log
+
+# Project specific
+
+
+# Package files
+*.jar
+*.war
+
+# OSX
+.DS_Store
+
+# Eclipse
+.classpath
+.project
+.settings/
+dependency-reduced-pom.xml
